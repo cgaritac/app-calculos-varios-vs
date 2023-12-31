@@ -1,0 +1,34 @@
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.exe.config
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.exe
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.pdb
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.xml
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.vbprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmDepreciacionLineal.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmDolCol.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmIMC.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmImpuesto.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmMenu.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmTemperaturaFC.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.Resources.resources
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.vbproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.exe
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.xml
+C:\Users\Toshiba\Desktop\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.xml
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.vbproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmDepreciacionLineal.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmDolCol.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmIMC.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmImpuesto.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmMenu.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.frmTemperaturaFC.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.vbproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.Resources.resources
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\obj\Debug\UsoDeControles.vbproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.exe.config
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.exe
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.pdb
+C:\Users\cgari\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 2\Prueba Corta 1\UsoDeControles\UsoDeControles\bin\Debug\UsoDeControles.xml
